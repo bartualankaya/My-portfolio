@@ -33,7 +33,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ---
 
 #### **Logo – Blog Post**
-🔗 [Link to article]([PASTE_LINK_HERE](https://www.logo.com.tr/blog/blog-detay/e-arsiv-fatura-iptali-nasil-yapilir))  
+🔗 [Link to article](https://www.logo.com.tr/blog/blog-detay/e-arsiv-fatura-iptali-nasil-yapilir)  
 **Role & Contribution:**
 - SEO-focused topic and keyword research  
 - Content gap analysis  
@@ -43,7 +43,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ---
 
 #### **Hepsiemlak – Blog Post**
-🔗 [Link to article]([PASTE_LINK_HERE](https://www.hepsiemlak.com/emlak-yasam/emlak-rehberi/tahliye-taahhutnamesi-hakkinda-bilgiler))  
+🔗 [Link to article](https://www.hepsiemlak.com/emlak-yasam/emlak-rehberi/tahliye-taahhutnamesi-hakkinda-bilgiler)  
 **Role & Contribution:**
 - Keyword gap analysis as the main growth strategy  
 - SEO-driven content planning  
@@ -54,7 +54,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ### 🗂 Category Pages & SEO Architecture
 
 #### **Konde CPA – Category Page**
-🔗 [Link to page]([PASTE_LINK_HERE](https://kondecpa.com/hizmetler/muhasebe-ve-raporlama/))  
+🔗 [Link to page](https://kondecpa.com/hizmetler/muhasebe-ve-raporlama)  
 **Role & Contribution:**
 - SEO-focused content for a niche market  
 - Keyword targeting with high-intent queries  
@@ -63,7 +63,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ---
 
 #### **Guletbookers – Category Pages**
-🔗 [Link to page]([PASTE_LINK_HERE](https://www.guletbookers.com/gulet-classes/))  
+🔗 [Link to page](https://www.guletbookers.com/gulet-classes)  
 **Role & Contribution:**
 - Strategized main category & subcategory structure  
 - Prevented keyword cannibalization  
@@ -74,7 +74,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ### 🌐 Website Content & UX Writing
 
 #### **Grand Pera – Website Content**
-🔗 [Link to website]([PASTE_LINK_HERE](https://www.grandpera.com/tr/sayfa/beyoglu-tarihi.html))  
+🔗 [Link to website](https://www.grandpera.com/tr/sayfa/beyoglu-tarihi.html)  
 **Role & Contribution:**
 - User-first content approach  
 - Clear navigation and messaging  
@@ -105,7 +105,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ### 🎥 Video & Educational Content
 
 #### **Lugat – YouTube Videos**
-🔗 [YouTube Channel / Playlist]([PASTE_LINK_HERE](https://www.youtube.com/@lugat-agency/videos))  
+🔗 [YouTube Channel / Playlist](https://www.youtube.com/@lugat-agency/videos)  
 **Notes:**
 - Videos published **before 2024**
 - Educational discussions on:
@@ -116,7 +116,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ---
 
 ## 📬 Contact
-- LinkedIn: [Your LinkedIn]([PASTE_LINK_HERE](https://www.linkedin.com/in/bartu-alankaya-970b82103/))
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/bartu-alankaya-970b82103)
 - Email: bartu.alankaya@gmail.com
 
 ---
