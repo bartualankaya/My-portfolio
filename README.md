@@ -33,7 +33,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ---
 
 #### **Logo – Blog Post**
-🔗 [Link to article]([PASTE_LINK_HERE](https://www.logo.com.tr/blog/blog-detay/e-arsiv-fatura-iptali-nasil-yapilir))  
+🔗 [[Link to article]([url](https://www.logo.com.tr/blog/blog-detay/e-arsiv-fatura-iptali-nasil-yapilir))]
 **Role & Contribution:**
 - SEO-focused topic and keyword research  
 - Content gap analysis  
