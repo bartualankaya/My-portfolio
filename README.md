@@ -116,7 +116,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ---
 
 ## 📬 Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/bartu-alankaya-970b82103)
+- LinkedIn: [Bartu Alankaya](https://www.linkedin.com/in/bartu-alankaya-970b82103)
 - Email: bartu.alankaya@gmail.com
 
 ---
