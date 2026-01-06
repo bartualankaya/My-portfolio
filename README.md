@@ -23,7 +23,7 @@ I work end-to-end: **research → strategy → execution → optimization**.
 ### 📝 Blog Content & SEO Strategy
 
 #### **Zoho – Blog Post**
-🔗 [Link to article]([PASTE_LINK_HERE](https://www.zoho.com/blog/zeptomail/best-practices-for-transactional-emails.html))  
+🔗 [Link to article](https://www.zoho.com/blog/zeptomail/best-practices-for-transactional-emails.html)  
 **Role & Contribution:**
 - Conducted keyword & content gap analysis  
 - Defined subjects and keyword clusters  
