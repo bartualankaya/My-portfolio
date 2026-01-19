@@ -100,6 +100,24 @@ I work end-to-end: **research → strategy → execution → optimization**.
 > ⚠️ Due to NDA restrictions, email copies and performance data cannot be publicly shared.  
 > High-level process, strategy, and outcomes can be discussed upon request.
 
+### 🌐 End-to-End Website Project
+
+#### **Swing Planet – Website, SEO & Content**
+🔗 https://www.swingplanet.com.tr/  
+**Role & Contribution:**
+- Designed and built the website from scratch (using Wix)  
+- Planned site architecture and page hierarchy  
+- Wrote all website content (UX-focused, clear, and conversion-oriented)  
+- Implemented on-page SEO:
+  - Keyword research and targeting  
+  - SEO-friendly page structure  
+  - Meta titles & descriptions  
+  - Internal linking
+- Balanced discoverability with usability for both new and returning users
+
+**Scope:**  
+Strategy · Design · Development · Content · SEO
+
 ---
 
 ### 🎥 Video & Educational Content
